@@ -1,0 +1,18 @@
+.odd {
+  background-color: rgb(233, 173, 173);
+}
+
+#noTwo {
+  color: blue;
+  font-size: 36px;
+}
+
+.bigger-font-size {
+  font-size: 36px;
+}
+
+#noFour {
+  background-color: rgb(94, 255, 2);
+  font-weight: bold;
+  font-size: 24px;
+}
